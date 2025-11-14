@@ -1,14 +1,12 @@
 ```bash
 $ whoami
 ```
-```
-
-> 🚀 Full Stack Developer
-> 🔐 Blockchain Enthusiast
-> 🤖 AI Explorer
-> 📍 Location: France
-> 🌐 Web: wespify. com                                    
-
+```md
+* 🚀 Full Stack Developer
+* 🔐 Blockchain Enthusiast
+* 🤖 AI Explorer
+* 📍 Location: France
+* 🌐 Web: wespify. com                                    
 ```
 
 ```bash
@@ -38,7 +36,7 @@ $ cat /etc/system-info
 ```bash
 $ ls -la ~/projects/featured/
 ```
-```
+```yaml
 drwxr-xr-x  4 w3spi5 developers  4096 Nov 14 12:00 .
 drwxr-xr-x  8 w3spi5 developers  4096 Nov 14 12:00 ..
 
@@ -61,7 +59,7 @@ drwxr-xr-x  8 w3spi5 developers  4096 Nov 14 12:00 ..
 ```bash
 $ gpg --list-keys --keyid-format LONG
 ```
-```
+```bash
 pub   rsa4096/[REDACTED] 2025-11-14 [SC]
       Key fingerprint = [SECURE_COMMUNICATIONS_ENABLED]
 uid                      w3spi5 <github@wespify.com>
@@ -84,7 +82,7 @@ $ curl -s https://api.github.com/users/w3spi5 | jq '.stats'
 ```bash
 $ echo $CONTACT_METHODS
 ```
-```
+```bash
  ─────────────────────────────────────────────────────────────────
 │ 📧 Email:    github@wespify.com                                │
 │ 🌐 Website:  https://wespify.com                               │
@@ -107,7 +105,6 @@ VGAA
 =E4ac
 -----END PGP PUBLIC KEY BLOCK-----
 EOB
-
 ```
 
 ```bash
@@ -125,7 +122,7 @@ $ tail -f /var/log/current_activities.log
 ```bash
 $ fortune | cowsay -f tux
 ```
-```
+```yaml
  _______________________________________
 < "Code is like humor. When you have to >
 < explain it, it's bad." - Cory House   >
@@ -142,7 +139,6 @@ $ fortune | cowsay -f tux
 ```
 
 ---
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=w3spi5&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
 </p>
@@ -150,16 +146,16 @@ $ fortune | cowsay -f tux
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=w3spi5&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </p>
-
 ---
 
 ```bash
 $ exit
 ```
-```
-┌──────────────────────────────────────────────────────────────┐
+```yaml
+ ─────────────────────────────────────────────────────────────
 │ Thanks for visiting! Feel free to explore my repositories   │
-│ and don't hesitate to reach out for collaborations. 🚀      │
-└──────────────────────────────────────────────────────────────┘
+│ and don't hesitate to reach out for collaborations.         │
+ ─────────────────────────────────────────────────────────────
+
 [Process completed]
 ```
