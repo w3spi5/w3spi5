@@ -1,3 +1,145 @@
-# w3spi5
+```bash
+$ whoami
+```
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 Full Stack Developer | 🔐 Blockchain Enthusiast | 🤖 AI Explorer          │
+│ 📍 Location: France | 🌐 Web: wespify.com                                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-TEST
+```bash
+$ cat /etc/system-info
+```
+```yaml
+[SYSTEM_PROFILE]
+├── 💻 Languages
+│   ├── PHP        ████████████████░░░░  80%
+│   ├── JavaScript ████████████████░░░░  80% 
+│   ├── Python     ████████████░░░░░░░░  60%
+│   └── Solidity   ██████████░░░░░░░░░░  50%
+│
+├── 🛠️ Technologies
+│   ├── Backend:    Laravel, Symfony, Node.js
+│   ├── Frontend:   React, Vue.js, TensorFlow.js
+│   ├── Blockchain: Web3, BSC, Ethereum
+│   └── DevOps:     Docker, CI/CD, Linux
+│
+└── 🎯 Focus Areas
+    ├── API Development & Integration
+    ├── Real-time Applications
+    ├── Smart Contract Integration
+    └── Machine Learning Implementation
+```
+
+```bash
+$ ls -la ~/projects/featured/
+```
+```
+drwxr-xr-x  4 w3spi5 developers  4096 Nov 14 12:00 .
+drwxr-xr-x  8 w3spi5 developers  4096 Nov 14 12:00 ..
+
+🎵 php-discogs-api/
+├── Description: "PHP 8.x client for Discogs API - Music database integration"
+├── Stack:       [PHP 8.x] [REST API] [OAuth]
+└── Status:      🟢 Active Maintenance
+
+💰 php-bscscan-api/
+├── Description: "BSC blockchain explorer API client - DeFi data extraction"
+├── Stack:       [PHP] [Web3] [Blockchain]
+└── Status:      🟢 Production Ready
+
+🤖 realtime-object-detection/
+├── Description: "Real-time object detection for mobile using TensorFlow.js"
+├── Stack:       [JavaScript] [TensorFlow.js] [COCO-SSD]
+└── Status:      🔄 Continuous Improvement
+```
+
+```bash
+$ gpg --list-keys --keyid-format LONG
+```
+```
+pub   rsa4096/[REDACTED] 2024-01-01 [SC]
+      Key fingerprint = [SECURE_COMMUNICATIONS_ENABLED]
+uid   w3spi5 <contact@wespify.com>
+sub   rsa4096/[REDACTED] 2024-01-01 [E]
+```
+
+```bash
+$ curl -s https://api.github.com/users/w3spi5 | jq '.stats'
+```
+```json
+{
+  "contributions": "████████████████████",
+  "commits": "1,337+",
+  "pull_requests": "42",
+  "issues": "89",
+  "code_reviews": "256"
+}
+```
+
+```bash
+$ echo $CONTACT_METHODS
+```
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ 📧 Email:    contact@wespify.com                                │
+│ 🌐 Website:  https://wespify.com                               │
+│ 💬 Discord:  w3spi5#[ASK]                                      │
+│ 🔑 GPG:      Available on keyserver                            │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+```bash
+$ tail -f /var/log/current_activities.log
+```
+```
+[2025-11-14 12:00:01] INFO  Working on decentralized applications
+[2025-11-14 12:00:02] INFO  Building API integrations
+[2025-11-14 12:00:03] INFO  Contributing to open source
+[2025-11-14 12:00:04] DEBUG Exploring AI/ML implementations
+[2025-11-14 12:00:05] INFO  Creating efficient solutions
+[2025-11-14 12:00:06] WARN  Coffee level critical, refilling...
+```
+
+```bash
+$ fortune | cowsay -f tux
+```
+```
+ _______________________________________
+< "Code is like humor. When you have to >
+< explain it, it's bad." - Cory House  >
+ ---------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=w3spi5&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w3spi5&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+</p>
+
+---
+
+```bash
+$ exit
+```
+```
+┌──────────────────────────────────────────────────────────────┐
+│ Thanks for visiting! Feel free to explore my repositories   │
+│ and don't hesitate to reach out for collaborations. 🚀      │
+└──────────────────────────────────────────────────────────────┘
+[Process completed]
+```
