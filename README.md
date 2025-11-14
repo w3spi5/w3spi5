@@ -62,10 +62,10 @@ drwxr-xr-x  8 w3spi5 developers  4096 Nov 14 12:00 ..
 $ gpg --list-keys --keyid-format LONG
 ```
 ```
-pub   rsa4096/[REDACTED] 2024-01-01 [SC]
+pub   rsa4096/[REDACTED] 2025-11-14 [SC]
       Key fingerprint = [SECURE_COMMUNICATIONS_ENABLED]
-uid                      w3spi5 <contact@wespify.com>
-sub   rsa4096/[REDACTED] 2024-01-01 [E]
+uid                      w3spi5 <github@wespify.com>
+sub   rsa4096/[REDACTED] 2025-11-14 [E]
 ```
 
 ```bash
