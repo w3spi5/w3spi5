@@ -7,11 +7,11 @@
   "langs": [
     {
       "name": "PHP",
-      "pct": 70
+      "pct": 69.9
     },
     {
       "name": "JavaScript",
-      "pct": 18.8
+      "pct": 18.7
     },
     {
       "name": "CSS",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Shell",
-      "pct": 3
+      "pct": 3.1
     },
     {
       "name": "TypeScript",
